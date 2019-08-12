@@ -1,0 +1,19 @@
+{
+  "name": "nodebots-team-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhartenbaum/NodeBots-Team-Awesome.git"
+  },
+  "author": "Alissa Hartenbaum, Tory Martin, Hamza Zaidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhartenbaum/NodeBots-Team-Awesome/issues"
+  },
+  "homepage": "https://github.com/ajhartenbaum/NodeBots-Team-Awesome#readme"
+}
